@@ -17,8 +17,6 @@ class ViewController: UIViewController {
     
     //var interstitialAd: GADInterstitial?
     
-    var git = "Git test"
-
     struct StopTapped {
         static let adRate = 5
     }
